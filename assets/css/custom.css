@@ -69,6 +69,25 @@
     }
   }
 
+  .only-print, .only-print *
+  {
+      display: none !important;
+  }
+
+/* No Print */
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+
+    .only-print, .only-print *
+    {
+      display: block !important;
+    }
+}
+
 .row{
 	max-width: 100%;
 	margin: 0 auto;
