@@ -17,8 +17,7 @@ computer Science Engineer in the making!
 <hr />
 
 # About  Myself 
-An ameteur in learning about the techology that runs our lives and years to get better by attaining more with morw every passing day.
-* Here's a little bit more [About Myself] (/about/)
+"The individual has always had to struggle to keep from being overwhelmed by the tribe.If you try it,you will be lonely often,and sometimes frightened. But no price is too high to pay for the privilege of owninng yourself."   [About Myself] (/about/)
 <hr  />
 
 ## Education Qualifications
@@ -30,7 +29,7 @@ GPA: 6.91/10 (First Semester)
 ##### West Bengal Council of Higher Secondary Education - Biological Science
 Aggrerate percentage : 68.8%
 
-* #### **Salar k.k Girls Higher Secondary School,Murshidabad | 2019-2016
+* #### **Salar k.k Girls Higher Secondary School,Murshidabad | 2013-2016
 ##### West Bengal Board of Secondary Education
 Aggrerate percentage:77.58%
 
@@ -49,9 +48,9 @@ Aggrerate percentage:77.58%
 * C
 
 ## Awards and Co-curriculars
-* Secured first position in class Eigth,Ninth, WBSE(2013-2014)
-* secured Highest marks in Math in class Ninth,WBSE(2014)
-* DC-KGEC intern 
+* DC-KGEC intern
+* Topper at class(ix),WBSE(2014)
+* Topper at class(vii),WBSE(2013)
 
 ## My interests 
 * Reading adventurous Novel
